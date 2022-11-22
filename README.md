@@ -28,3 +28,9 @@
   <li><a href="https://github.com/Deilis/CompTIA/tree/main/Network%2B/C19.%20Network%20Troubleshooting">Network Troubleshooting</a></li>
   <li><a href="https://github.com/Deilis/CompTIA/tree/main/Network%2B/C20.%20Managment%2C%20Monitoring%2C%20and%20Optimization">Managment, Monitoring, and Optimization</a></li>
 </ul>
+
+### Security+
+--Update Soon--
+
+### Pentest+
+--Update Soon--
