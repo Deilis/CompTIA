@@ -8,6 +8,7 @@
 <br>
 
 <hr>
+
 ### Network+ Summary
 
 <ul>
@@ -33,6 +34,7 @@
 </ul>
 
 <hr>
+
 ### Security+ Summary
 --Update Soon--
 
