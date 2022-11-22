@@ -1,4 +1,4 @@
-# CompTIA
+# CompTIA Summaries
 <a href="https://github.com/Deilis/CompTIA/tree/main/Network%2B">Network+</a>
 <br>
 <a href="#">Security+</a>
@@ -6,7 +6,7 @@
 <a href="#">Pentest+</a>
 <br>
 
-### Network+
+### Network+ Summary
 <ul>
   <li><a href="https://github.com/Deilis/CompTIA/tree/main/Network%2B/C2.%20The%20Open%20Systems%20Interconnection%20Specifications">The Open Systems Interconnection Specifications</a></li>
   <li><a href="https://github.com/Deilis/CompTIA/tree/main/Network%2B/C3.%20Networking%20Topologies%2C%20Connectors%2C%20and%20Wiring%20Standarts">Networking Topologies, Connectors, and Wiring Standarts</a></li>
@@ -29,8 +29,8 @@
   <li><a href="https://github.com/Deilis/CompTIA/tree/main/Network%2B/C20.%20Managment%2C%20Monitoring%2C%20and%20Optimization">Managment, Monitoring, and Optimization</a></li>
 </ul>
 
-### Security+
+### Security+ Summary
 --Update Soon--
 
-### Pentest+
+### Pentest+ Summary
 --Update Soon--
