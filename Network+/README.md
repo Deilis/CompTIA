@@ -1,5 +1,6 @@
-## Introduction to Networks
-'This is the list of topics in Chapter. 1 of "Introduction to Networks".'
+# Introduction to Networks
+
+This is the list of topics in Chapter. 1 of "Introduction to Networks".
 
 <ul>
     <ul>
