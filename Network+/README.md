@@ -5,7 +5,7 @@
             <li><a href="">The Local Area Network</a></li>
             <li><a href="">Common Network Components</a></li>
             <li><a href="">Wide Area Network</a></li>
-            <li><a href=""></a>Network Architecture: Peer-to-Peer or Client-Server</li>
+            <li><a href="">Network Architecture: Peer-to-Peer or Client-Server</a></li>
         </ul>
         <li><a href="">Physical Network Topologies</a></li>
         <ul>
